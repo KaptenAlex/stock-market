@@ -4,8 +4,8 @@ import SwitchRoutes from './components/SwitchRoutes';
 
 function App() {
   return (
-    <div className="container-xl">
-      <div className="col">
+    <div>
+      <div>
       <HeadingTwo />
       <NavbarLinks />
       <SwitchRoutes />
